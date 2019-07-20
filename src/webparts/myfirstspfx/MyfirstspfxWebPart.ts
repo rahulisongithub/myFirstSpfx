@@ -21,8 +21,8 @@ export default class MyfirstspfxWebPart extends BaseClientSideWebPart<IMyfirstsp
         <div class="${ styles.container }">
           <div class="${ styles.row }">
             <div class="${ styles.column }">
-              <span class="${ styles.title }">Welcome to SPFX with Azure DevOps CI/CD</span>
-              <p class="${ styles.subTitle }">by Rahul Navale..!!</p>
+              <span class="${ styles.title }">!!..Welcome to SPFX with Azure DevOps..!!</span>
+              <p class="${ styles.subTitle }">by !!..Rahul Navale..!!</p>
               <a href="https://aka.ms/spfx" class="${ styles.button }">
                 <span>Learn more</span>
               </a>

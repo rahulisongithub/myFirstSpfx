@@ -1,5 +1,5 @@
 ## myfirstspfx-webpart
-
+[![Build Status](https://collegedropouts.visualstudio.com/myFirstSpfx/_apis/build/status/myFirstSpfx-CI?branchName=master)](https://collegedropouts.visualstudio.com/myFirstSpfx/_build/latest?definitionId=2&branchName=master)
 This is where you include your WebPart documentation.
 
 ### Building the code
